@@ -1,3 +1,3 @@
-![banner image](https://miro.medium.com/max/1400/0*M1zEDfLTWbCKulmt.png)
+![banner image](https://dazedimg-dazedgroup.netdna-ssl.com/1050/azure/dazed-prod/1310/6/1316824.jpg)
 
 # ShinyAPP
